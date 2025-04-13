@@ -1,0 +1,3 @@
+[submodule "clouddev_frontend3"]
+	path = clouddev_frontend3
+	url = https://github.com/Tharun-Kanaganipalli/clouddev_frontend3
